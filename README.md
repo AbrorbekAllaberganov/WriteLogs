@@ -30,14 +30,14 @@ Before running this application, make sure you have the following installed:
     java -jar target/your-application.jar
   ```
 
-##Logging Configuration
+## Logging Configuration
 
 This project uses SLF4J for logging abstraction and Logback as the logging implementation. Log messages are written to a file named application.log located in the logs directory.
 
 The logging configuration is defined in src/main/resources/log4j2-spring.xml. You can customize the logging configuration according to your requirements.
 
-##Usage
+## Usage
 Once the application is running, it will start logging messages to the application.log file. You can monitor the log file to view the logged messages.
 
-##Contributing
+## Contributing
 If you'd like to contribute to this project, please write in the comment section. It makes me happy. Thank you, HAPPY CODING :)
